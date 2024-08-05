@@ -2366,9 +2366,20 @@ dimwishlist:item=4255171531&perks=3300816228,3194351027
 
 
 // Relativism ()
-dimwishlist:item=2809120022&perks=1476923953,1476923955
-dimwishlist:item=2809120022&perks=3751917996,3751917992
+dimwishlist:item=2809120022&perks=1476923953,1476923955 //SES Inmost
+dimwishlist:item=2809120022&perks=3751917996,3751917992 //Caliban Liars
 
 
 // Ergo Sum ()
-dimwishlist:item=1681583613&perks=519046634,1522566605
+dimwishlist:item=1681583613&perks=519046634,1522566605 //Caster Perfect Fifth
+dimwishlist:item=1681583613&perks=289811733,1959135343 //Wave Wolfpack
+dimwishlist:item=1681583613&perks=289811733,3949068808 //Wave Arc Conductor
+dimwishlist:item=1681583613&perks=519046634,3949068808 //Caster Arc Conductor
+dimwishlist:item=1681583613&perks=2753228730,3949068808 //Lightweight Arc Conductor
+dimwishlist:item=1681583613&perks=2753228730,1327961177 //Lightweight Unplanned Reprieve
+dimwishlist:item=1681583613&perks=1261178282,519046634,1522566605 //Caster Perfect Fifth w/ Enduring
+dimwishlist:item=1681583613&perks=1261178282,289811733,1959135343 //Wave Wolfpack w/ Enduring
+dimwishlist:item=1681583613&perks=1261178282,289811733,3949068808 //Wave Arc Conductor w/ Enduring
+dimwishlist:item=1681583613&perks=1261178282,519046634,3949068808 //Caster Arc Conductor w/ Enduring
+dimwishlist:item=1681583613&perks=1261178282,2753228730,3949068808 //Lightweight Arc Conductor w/ Enduring
+dimwishlist:item=1681583613&perks=1261178282,2753228730,1327961177 //Lightweight Unplanned Reprieve w/ Enduring
