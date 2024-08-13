@@ -1,5 +1,4 @@
 title:Deadworld
-title:Deadworld
 
 // Long Arm ()
 dimwishlist:item=8293111&perks=671806388,3038247973
