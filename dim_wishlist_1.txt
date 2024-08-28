@@ -297,6 +297,7 @@ dimwishlist:item=496728945&perks=124408337,2848615171
 // Ded Gramarye IV ()
 dimwishlist:item=499245245&perks=4071163871,2396489472
 dimwishlist:item=499245245&perks=4071163871,2173046394
+dimwishlist:item=499245245&perks=3978468247,2396489472
 
 
 // Chattering Bone ()
